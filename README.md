@@ -16,9 +16,3 @@
 <a href="https://twitter.com/_iamahmedalaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamahmedalaa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/iamahmedalaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamahmedalaa" height="30" width="40" /></a>
 </p>
-
-### :writing_hand: Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### :joy: Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
