@@ -16,6 +16,3 @@
 <a href="https://twitter.com/_iamahmedalaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamahmedalaa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/iamahmedalaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamahmedalaa" height="30" width="40" /></a>
 </p>
-
-
-https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg
