@@ -1,6 +1,6 @@
 <h1 align="left">Hi :wave:, I'm Ahmed Alaa</h1>
-<h3 align="left">A passionate software engineer from Egypt</h3>
-<p dir="auto">Mobile Engineer with 5+ years of experience specializing in Android development. Skilled in designing and delivering high-quality, user-centric applications with clean architecture and optimized performance. Proficient in Java and Kotlin, with a proven ability to enhance user engagement, streamline development processes, and deliver scalable solutions that drive business success.</p>
+<h3 align="left">A passionate Android Engineer from Egypt</h3>
+<p dir="auto">Senior Android Engineer with 5+ years of experience specializing in Android development. Skilled in designing and delivering high-quality, user-centric applications with clean architecture and optimized performance. Proficient in Java and Kotlin, with a proven ability to enhance user engagement, streamline development processes, and deliver scalable solutions that drive business success.</p>
 
 - :telescope: I’m currently working on [NowPay](https://nowpay.com/)
 - :mailbox: How to reach me **ahmed.alaa50.aa@gmail.com**
